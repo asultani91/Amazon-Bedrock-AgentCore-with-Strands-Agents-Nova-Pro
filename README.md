@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asultani91-amazon-bedrock-agentcore-with-strands-agents-nova-pro-badge.png)](https://mseep.ai/app/asultani91-amazon-bedrock-agentcore-with-strands-agents-nova-pro)
+
 # 🤖 Amazon Bedrock AgentCore Workshop with Strands Agents & Nova Pro
 
 A comprehensive hands-on workshop demonstrating production-ready infrastructure for Agentic AI using **Amazon Bedrock AgentCore**, **Strands Agents framework**, and **Amazon Nova Pro** foundation model. This project covers seven modular labs that progressively build expertise in deploying secure, scalable AI agents at enterprise scale.
